@@ -25,5 +25,6 @@ public class AddressBook {
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(buddy);
         System.out.println("Commit changes made");
+        System.out.println("Checkout branch commit push check");
     }
 }
